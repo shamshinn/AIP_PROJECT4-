@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/AIP/AIP PROJECT/TESTS/build/cmake_install.cmake",
+		"D:/AIP/AIP PROJECT/TESTS/build/game/cmake_install.cmake",
+		"D:/AIP/AIP PROJECT/TESTS/build/tests/cmake_install.cmake",
+		"D:/AIP/AIP PROJECT/TESTS/build/_deps/googletest-build/cmake_install.cmake",
+		"D:/AIP/AIP PROJECT/TESTS/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"D:/AIP/AIP PROJECT/TESTS/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

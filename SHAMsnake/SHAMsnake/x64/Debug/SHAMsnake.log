@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+D:\AIP\AIP PROJECT\SHAMsnake\SHAMsnake\MyForm.h(112,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\AIP\AIP PROJECT\SHAMsnake\SHAMsnake\MyForm.h(133,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SHAMsnake.vcxproj -> D:\AIP\AIP PROJECT\SHAMsnake\x64\Debug\SHAMsnake.exe

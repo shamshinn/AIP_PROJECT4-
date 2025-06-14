@@ -1,0 +1,6 @@
+C:\Users\nsham\source\repos\SHAMsnake\SHAMsnake\x64\Debug\SHAMsnake.vcxproj.AssemblyReference.cache
+C:\Users\nsham\source\repos\SHAMsnake\SHAMsnake\x64\Debug\SHAMsnake.MyForm.resources
+C:\Users\nsham\source\repos\SHAMsnake\SHAMsnake\x64\Debug\SHAMsnake.vcxproj.GenerateResource.cache
+D:\AIP\AIP PROJECT\SHAMsnake\SHAMsnake\x64\Debug\SHAMsnake.vcxproj.AssemblyReference.cache
+D:\AIP\AIP PROJECT\SHAMsnake\SHAMsnake\x64\Debug\SHAMsnake.MyForm.resources
+D:\AIP\AIP PROJECT\SHAMsnake\SHAMsnake\x64\Debug\SHAMsnake.vcxproj.GenerateResource.cache

@@ -1,0 +1,5 @@
+if(EXISTS "D:/AIP/AIP PROJECT/TESTS/build/tests/SnakeGameTests[1]_tests.cmake")
+  include("D:/AIP/AIP PROJECT/TESTS/build/tests/SnakeGameTests[1]_tests.cmake")
+else()
+  add_test(SnakeGameTests_NOT_BUILT SnakeGameTests_NOT_BUILT)
+endif()
